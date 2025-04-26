@@ -21,3 +21,7 @@ tsconfig.tsbuildinfo
 /packages/bundler/src/types/
 yarn-error.log
 .vscode
+
+/submodules/account-abstraction/
+/submodules/rip7560/
+packages/bundler/localconfig/bundler.account.json
