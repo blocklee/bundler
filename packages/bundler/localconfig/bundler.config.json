@@ -1,9 +1,9 @@
 {
-  "chainId": 1337,
+  "chainId": 8131,
   "gasFactor": "1",
   "port": "3000",
   "privateApiPort": "3001",
-  "network": "http://127.0.0.1:8545",
+  "network": "http://127.0.0.1:18545",
   "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
   "beneficiary": "0x8791Ab64a3B48E1f12A62849406B76E04ba78f6A",
   "minBalance": "1",
